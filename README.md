@@ -26,5 +26,4 @@
 
 ###
 
-<p align="left">I'm from Thailand<br><br>- 🔭 I’m working as Student At Naresuan University<br><br>-🌱 I’m currently learning Data science and Analytics<br><br>- 👯 I’m looking to collaborate on Any project<br><br>- 🤝 I’m looking for help with DevOps<br><br>- 💬 Ask me about Windows<br><br>- 📫 How to reach me zaqsf159359@gmail.com<br><br>- ⚡ Fun fact You can't do epic stuff with basic people</p>
-
+<p align="left">I'm from Thailand<br><br>- 🔭 I’m working as Student At Naresuan University<br>
