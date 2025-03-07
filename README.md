@@ -25,4 +25,4 @@
 
 ###
 
-<p align="left">I'm from Thailand<br><br>- 🔭 I’m working as Student At Naresuan University<br>
+<p align="left">I'm from Thailand<br><br>- 🔭 working as Student At Naresuan University<br>
